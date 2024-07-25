@@ -1,1 +1,1 @@
-# Pneumonia_Detection
+# Chest X-Ray Pneumonia Detection
